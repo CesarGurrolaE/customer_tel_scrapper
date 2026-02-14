@@ -176,10 +176,10 @@ El script busca datos en:
     "Clientes": [
       {
         "DatosSOMS": {
-          "IdCliente": "0069657104",
+          "IdCliente": "1198957334",
           "Nombre1": "Ligia",
           "Nombre2": "",
-          "Ap-Pat": "Caballero",
+          "Ap-Pat": "Flores",
           "Ap-Mat": "Flores"
         }
       }
